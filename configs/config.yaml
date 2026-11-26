@@ -40,3 +40,8 @@ documents:
     header_regex: 'نصراوي\s+\d+'
   ble_fr_002:
     ocr: true
+  ble_fr_005:
+    skip_pages: [1, 2, 3, 5, 14, 15]
+    ocr_pages: [16]
+  ble_ar_002:
+    nfkc: true
