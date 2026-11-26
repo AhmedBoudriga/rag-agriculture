@@ -40,6 +40,7 @@ documents:
     header_regex: 'نصراوي\s+\d+'
   ble_fr_002:
     ocr: true
+    header_regex: 'Guide pratique pour la protection.{0,30}des c.r.ales et des l.gumineuses alimentaires?\s*\d*\s*%?'
   ble_fr_005:
     skip_pages: [1, 2, 3, 5, 14, 15]
     ocr_pages: [16]
