@@ -1,3 +1,7 @@
 *.bak
 .env
 *.env
+data/raw/
+data/processed/
+.venv/
+__pycache__/
