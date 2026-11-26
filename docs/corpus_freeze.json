@@ -1,0 +1,20 @@
+{
+  "passages_sha256": "cfbf71fd99c446f16536fd85c3872d14cca21bd3d02887f84a632fdbf637df1c",
+  "n_passages": 899,
+  "chunking": {
+    "max_words": 200,
+    "overlap_words": 40
+  },
+  "documents": {
+    "oli_fr_001": "ad537e6e61c0ed161f35f36f91d571a9d09b1bc8c68fcaa9f38d802b4b952fa8",
+    "oli_fr_002": "69ce8bc061299f46e032361da54c2f99b6ac67cab6ed3c54c784abcc786418fe",
+    "oli_fr_003": "d2caa704f9a744ea43b6663353403471d94a8b558c67003646ffda3bc9446247",
+    "oli_ar_001": "e3b4523cbddcfcb3827cf01f08bf7187dc098bb08e72ddf2ba83c67ca8e9f96c",
+    "ble_fr_002": "71754117fd70f4e0798e3ed5f8b559c8d37246e270366ceb05f719b8006a6d7c",
+    "ble_fr_003": "426075c949b4b63e131721bad155080dabc14223b12c9c005da1f5207b27ff49",
+    "ble_fr_004": "ae0e841bb8638504349c952f2248b2f2c7b1498be77d47aa8b5f761c6850f186",
+    "ble_fr_005": "05479762851add4e2da873ba3060ea3fae080ac89ced93bb78ca709cc9e35c9b",
+    "ble_ar_001": "23af69f2b05d4415a1567c86541244f7c614dd4bfa38b4a5eb17b5e987cdb624",
+    "ble_ar_002": "087476b4832fe47cdcda12f8b6227176461d7577cb6f27d45681f345f3e91087"
+  }
+}
